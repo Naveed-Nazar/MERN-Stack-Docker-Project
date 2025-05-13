@@ -2,7 +2,7 @@
 
 Containerized a full-stack MERN application using Docker, leveraging a docker-compose.yml file for multi-container orchestration.
 
-Defined a custom Docker network to enable seamless inter-container communication between frontend, backend, and database services.
+Defined a custom Docker network in order to enable seamless inter-container communication between frontend, backend, and database services.
 
 Created a Dockerfile for the frontend (React) application to build and serve the client-side code in a lightweight container.
 
